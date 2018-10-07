@@ -1,0 +1,1 @@
+﻿# ruby-homework1A storage of knowledgeI am following ruby course on https://github.com/monorkin/learn.rb[https://github.com/monorkin/learn.rb](URL)## My favorite programming languages_C_,  **C++**, _Python_, **Java**[samoyed](URL.png)
